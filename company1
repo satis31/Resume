@@ -1,0 +1,39 @@
+DAT FRIEGHT & ANALYTICS Denver, CO                                                                                                                   April 2022 to Present
+Sr. Full Stack Java Developer
+Responsibilities:
+•	Designed and Developed Microservices-based applications using Spring, Spring Boot, Hibernate, Spring DAO, Gradle, JDBC, Oracle. Used Eureka to call other proxies Microservices.
+•	Developed web pages using Servlets and XML for various modules.
+•	Created reusable and testable React JS functional and class components using E6.
+•	Created new RESTful services in JSON data format to communicate with external systems with Spring MVC.
+•	Used Angular for UI development. Developed HTML views with HTML5, CSS4, bootstrap, Angular.
+•	Developed Web interface using AngularJS, HTML, CSS, JavaScript, and Bootstrap.
+•	Implementing Service-oriented architecture (SOA), OOPs concepts using Web Services like SOAP, REST.
+•	Select the appropriate AWS service based on computing, data, or security requirements.
+•	Migrate Oracle 11g database to PostgreSQL database using ESF Database migration toolkit.
+•	Responsible for developing the application using Angular JS, Node JS, Typescript, JSP, CSS3,HTML 5, jQuery, Bootstrap, Struts, and JavaScript.
+•	Implemented Spring boot-microservices to process the messages into the Kafka cluster setup.
+•	Develop the REST Microservices using Java JDK 1.8, Scala, on the IntelliJ platform by gathering the knowledge of previous phase resources and integration with Oracle.
+•	Deployed PCF on AWS EC2 to manage the containers created by PCF.
+•	Secured the APIs by implementing Oauth2 token-based authentication using spring security.
+•	Used JavaScript and CSS to have better control of the Browser.
+•	Developed User Interaction screens using HTML, CSS3, Bootstrap, JavaScript, Angular 9, and NodeJS.
+•	Implemented security on microservices using Spring Boot Auth server, JWT tokens as OAUTH2 mechanism.
+•	Created automated pipelines in AWS Code Pipeline to deploy Docker containers in AWS ECS using services like CloudFormation, Code Build, Code Deploy, S3, and puppet.
+•	Created AWS S3 buckets to keep the web app files and the CloudFormation templates.
+•	Hands-on experience with AWS EC2, AWS S3, AWS RDS, VPC, IAM, AWS Elastic Load Balancing, Auto Scaling, Cloud Front, CloudWatch, SNS, SES, SQS, and other services.
+•	Create Spring Boot based Microservices for (Integrate, validate, decision, aggregate, audit, and exception)
+•	Used Angular 8 and Confidential Covalent UI as frameworks to create a Single Page Application (SPA) which can bind data to specific views and synchronize data with the server.
+•	Created Angular service and integration with RESTful APIs and Angular HTTP Client to send GET/POST requests to fetch data from the server.
+•	Developed user interface by using the React JS, Redux for SPA development.
+•	Worked on building a data center with AWS. Installed SVN, GIT, Jenkins images on AWS.
+•	Developed a RESTful web API using Spring Boot. Spring Data is used to communicate with MongoDB.
+•	Used React JS for templating for faster compilation and developing reusable components.
+•	Responsible for using Java 8 features such as lambda expressions, Parallel operations on collections, multithreading, and effective sorting mechanisms.
+•	Creates and configured Microservices architecture, integrated it with the React JS application.
+•	Used React & Redux Dev Tools plugins to observe component state and prop changes instantly.
+•	Design, build, secure, and manage clusters/workloads running on self-managed Kubernetes, Amazon EKS, Amazon ECS, and AWS Fargate.
+•	Extensively used Angular-CLI to generate components, routes, services, pipes and to run tests.
+•	Enhanced application performance by Angular 8 Component development for future Angular transitions.
+•	Created custom, self-contains, reusable, and testable angular 8/9 modules, controllers, directives, and services to implement key functionalities for customer account summary.
+•	Installation, administration, and maintenance of CI/CD applications: Jenkins, Artifactory, SonarQube, Stash, and Docker. Created private cloud using Kubernetes that supports DEV, TEST, and PROD environments.
+
